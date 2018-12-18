@@ -1,0 +1,27 @@
+.a{
+    color: white;
+    font-weight: bold;
+    float: right;
+    margin-left: 0 px;
+    font-size: 20px;
+}
+.b{
+    width: 420px;
+    height: 300px;
+}
+.header {
+  width: 80%;
+  height: 55%;
+  margin: 50px auto 0px;
+  color: white;
+  background-color: black;
+  background: rgba(0, 0, 0, 0.6);
+  text-align: ;
+  border: 1px 1px 0px 1px solid black;
+  border-bottom: none;
+  border-radius: 20px 20px 20px 20px;
+  padding: 20px;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-top: 100px;
+}

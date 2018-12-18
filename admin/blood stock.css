@@ -1,0 +1,44 @@
+h2{
+        color:white;
+        text-align: center;
+        margin-top: -12px;
+    }
+    .mid
+        {
+        text-align: center;
+        color:white;
+        background-color:black;
+        background: rgba(0, 0, 0, 0.6);
+        font-weight: bold;
+        border: 1px solid black;
+        padding-bottom: 5px;
+        padding-top: 5px;
+        }
+    .mi
+        {
+        text-align: center;
+        color:white;
+        background-color: black;
+        background: rgba(0, 0, 0, 0.6);
+        font-weight: bold;
+        border: 1px solid black;
+        padding-bottom: 5px;
+        padding-top: 5px;
+        }
+.header {
+  width: 22.5%;
+  margin: 50px auto 0px;
+  color: white;
+  background-color: black;
+  background: rgba(0, 0, 0, 0.6);
+  text-align: center;
+  border: 1px solid black;
+  border-bottom: none;
+  border-radius: 10px 10px 0px 0px;
+  padding: 20px;
+    margin-top: 1.5px;
+    margin-top: 60px;
+}
+h2{
+   padding-top: 30px;
+}
